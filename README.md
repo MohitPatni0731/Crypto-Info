@@ -5,9 +5,13 @@ This script is written in Python in which it basically ask user to enter the nam
 # Setup
 To run the bot, open the command line in the cloned repo directory and install the requirements using pip with the following command:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 # Execute
 To run the bot, run the following in the command line:
 
-```python3 main.py```
+```
+python3 main.py
+```
